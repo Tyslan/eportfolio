@@ -1,0 +1,9 @@
+{
+  "name": "e-portfolio-lorenz-verschingel",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-material": "~1.0.3",
+    "angular-ui-router": "~0.2.15"
+  }
+}
