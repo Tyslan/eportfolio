@@ -15,26 +15,33 @@
 
 </head>
 <body ng-app="PortfolioApp">
-  <div layout="row" layout-padding class="bg-dark-blue nav-dark" layout-align="space-between center">
-    <div>
-        <md-button>Home</md-button>
-        <md-button>Item 1</md-button>
-        <md-button>Item 2</md-button>
-        <md-menu>
-            <md-button md-menu-origin ng-click="$mdOpenMenu()">Help</md-button>
-            <md-menu-content width="2">
-                <md-menu-item>
-                    <md-button>Help</md-button>
-                </md-menu-item>
-                <md-menu-item>
-                    <md-button>About</md-button>
-                </md-menu-item>
-            </md-menu-content>
-        </md-menu>
+  <md-toolbar class="md-primary">
+    <div layout="row" layout-padding layout-align="space-between center">
+      <div>
+          <md-button>Home</md-button>
+          <md-button>Over</md-button>
+          <md-button>Portfolio</md-button>
+          <md-button>Hobby's</md-button>
+          <md-button>Contact</md-button>
+          <md-menu>
+              <md-button md-menu-origin ng-click="$mdOpenMenu()">Taal</md-button>
+              <md-menu-content class="md-primary" width="2">
+                  <md-menu-item>
+                      <md-button>Nederlands</md-button>
+                  </md-menu-item>
+                  <md-menu-item>
+                      <md-button>Engels</md-button>
+                  </md-menu-item>
+                  <md-menu-item>
+                      <md-button>Frans</md-button>
+                  </md-menu-item>
+              </md-menu-content>
+          </md-menu>
+      </div>
     </div>
-  </div>
+  </md-toolbar>
 
-  <md-content layout-padding>
+  <md-content layout-padding class="md-primary">
     <div ui-view></div>
   </md-content>
 

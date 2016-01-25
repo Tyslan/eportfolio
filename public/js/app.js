@@ -2,7 +2,8 @@
 angular
   .module('PortfolioApp', ['ui.router', 'ngMaterial'])
   .config(function($mdThemingProvider) {
-    $mdThemingProvider.theme('blue')
-      .primaryPalette('pink')
-      .accentPalette('orange');
-    });
+    $mdThemingProvider.theme('default')
+      .primaryPalette('green')
+      .accentPalette('orange')
+      .warnPalette('red');
+  });
