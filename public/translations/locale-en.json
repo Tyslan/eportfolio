@@ -1,4 +1,10 @@
 {
+  "HOME": "Home",
+  "ABOUT": "About Lorenz",
+  "PORTFOLIO": "Portfolio",
+  "HOBBIES": "Hobbies",
+  "CONTACT": "Contact",
+  "LANGUAGE": "Language",
   "WELCOME": "Welcome",
   "WELCOME_PAR_1": "On this website you can find all kinds of information about what I have made up to now, about myself and about my studies."
 }
