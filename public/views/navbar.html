@@ -1,25 +1,27 @@
 <md-toolbar class="md-primary">
   <div layout="row" layout-padding layout-align="space-between center">
-    <div>
-        <md-button>{{'HOME' | translate}}</md-button>
-        <md-button>{{'ABOUT' | translate}}</md-button>
-        <md-button>{{'PORTFOLIO' | translate}}</md-button>
-        <md-button>{{'HOBBIES' | translate}}</md-button>
-        <md-button>{{'CONTACT' | translate}}</md-button>
-        <md-menu>
-            <md-button md-menu-origin ng-click="$mdOpenMenu()">{{'LANGUAGE' | translate}}</md-button>
-            <md-menu-content class="md-primary" width="2">
-                <md-menu-item>
-                    <md-button ng-click="vmNavigation.changeLanguage('nl')">Nederlands</md-button>
-                </md-menu-item>
-                <md-menu-item>
-                    <md-button ng-click="vmNavigation.changeLanguage('en')">English</md-button>
-                </md-menu-item>
-                <md-menu-item>
-                    <md-button ng-click="vmNavigation.changeLanguage('fr')">Français</md-button>
-                </md-menu-item>
-            </md-menu-content>
-        </md-menu>
-    </div>
+        <md-menu-bar>
+          <md-button>{{'HOME' | translate}}</md-button>
+          <md-button>{{'ABOUT' | translate}}</md-button>
+          <md-button>{{'PORTFOLIO' | translate}}</md-button>
+          <md-button>{{'HOBBIES' | translate}}</md-button>
+          <md-button>{{'CONTACT' | translate}}</md-button>
+          <md-menu>
+              <md-button md-menu-origin ng-click="$mdOpenMenu()">{{'LANGUAGE' | translate}}</md-button>
+              <md-menu-content class="md-primary md-hue-1" width="2">
+                  <md-menu-item>
+                      <md-button ng-click="vmNavigation.changeLanguage('nl')">Nederlands</md-button>
+                  </md-menu-item>
+                  <md-menu-divider></md-menu-divider>
+                  <md-menu-item>
+                      <md-button ng-click="vmNavigation.changeLanguage('en')">English</md-button>
+                  </md-menu-item>
+                  <md-menu-divider></md-menu-divider>
+                  <md-menu-item>
+                      <md-button ng-click="vmNavigation.changeLanguage('fr')">Français</md-button>
+                  </md-menu-item>
+              </md-menu-content>
+          </md-menu>
+        </md-menu-bar>
   </div>
 </md-toolbar>
