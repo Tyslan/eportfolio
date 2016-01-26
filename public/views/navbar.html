@@ -1,0 +1,25 @@
+<md-toolbar class="md-primary">
+  <div layout="row" layout-padding layout-align="space-between center">
+    <div>
+        <md-button>Home</md-button>
+        <md-button>Over</md-button>
+        <md-button>Portfolio</md-button>
+        <md-button>Hobby's</md-button>
+        <md-button>Contact</md-button>
+        <md-menu>
+            <md-button md-menu-origin ng-click="$mdOpenMenu()">Taal</md-button>
+            <md-menu-content class="md-primary" width="2">
+                <md-menu-item>
+                    <md-button ng-click="vmNavigation.changeLanguage('nl')">Nederlands</md-button>
+                </md-menu-item>
+                <md-menu-item>
+                    <md-button ng-click="vmNavigation.changeLanguage('en')">Engels</md-button>
+                </md-menu-item>
+                <md-menu-item>
+                    <md-button ng-click="vmNavigation.changeLanguage('fr')">Frans</md-button>
+                </md-menu-item>
+            </md-menu-content>
+        </md-menu>
+    </div>
+  </div>
+</md-toolbar>

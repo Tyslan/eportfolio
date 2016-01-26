@@ -15,35 +15,14 @@
 
 </head>
 <body ng-app="PortfolioApp">
-  <md-toolbar class="md-primary">
-    <div layout="row" layout-padding layout-align="space-between center">
-      <div>
-          <md-button>Home</md-button>
-          <md-button>Over</md-button>
-          <md-button>Portfolio</md-button>
-          <md-button>Hobby's</md-button>
-          <md-button>Contact</md-button>
-          <md-menu>
-              <md-button md-menu-origin ng-click="$mdOpenMenu()">Taal</md-button>
-              <md-menu-content class="md-primary" width="2">
-                  <md-menu-item>
-                      <md-button>Nederlands</md-button>
-                  </md-menu-item>
-                  <md-menu-item>
-                      <md-button>Engels</md-button>
-                  </md-menu-item>
-                  <md-menu-item>
-                      <md-button>Frans</md-button>
-                  </md-menu-item>
-              </md-menu-content>
-          </md-menu>
-      </div>
-    </div>
-  </md-toolbar>
+  <navbar></navbar>
 
   <md-content layout-padding class="md-primary">
     <div ui-view></div>
   </md-content>
+
+  <!-- Translations -->
+  <script src="js/translations/translations.js"></script>
 
   <!-- JS -->
   <script src="libs/angular/angular.min.js"></script>
@@ -51,9 +30,15 @@
   <script src="libs/angular-aria/angular-aria.min.js"></script>
   <script src="libs/angular-animate/angular-animate.min.js"></script>
   <script src="libs/angular-material/angular-material.min.js"></script>
+  <script src="libs/angular-translate/angular-translate.min.js"></script>
+  <script src="libs/angular-sanitize/angular-sanitize.min.js"></script>
 
   <!-- ANGULAR CUSTOM -->
   <script src="js/app.js"></script>
-  <script src="js/appRoutes.js"></script>
+  <script src="js/configs/routeConfig.js"></script>
+  <script src="js/configs/translationsConfig.js"></script>
+  <script src="js/configs/themeConfig.js"></script>
+  <script src="js/directives/navigationDirective.js"></script>
+  <script src="js/controllers/navigationController.js"></script>
 </body>
 </html>
