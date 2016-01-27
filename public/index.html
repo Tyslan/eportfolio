@@ -1,15 +1,42 @@
 <!-- public/index.html -->
 <!doctype html>
-<html lang="en">
+<html lang="<%= locale %>">
 <head>
    <meta charset="UTF-8">
+   <base href="/">
 
    <title>E-portfolio Lorenz Verschingel</title>
+   <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+   <!-- CSS -->
+  <link rel="stylesheet" href="libs/angular-material/angular-material.min.css">
+  <!-- custom styles -->
+  <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body>
+<body ng-app="PortfolioApp">
+  <navbar></navbar>
 
-   we did it!
+  <md-content layout-padding class="md-primary contentBackground">
+    <div ui-view></div>
+  </md-content>
 
+  <!-- JS -->
+  <script src="libs/angular/angular.min.js"></script>
+  <script src="libs/angular-ui-router/release/angular-ui-router.min.js"></script>
+  <script src="libs/angular-aria/angular-aria.min.js"></script>
+  <script src="libs/angular-animate/angular-animate.min.js"></script>
+  <script src="libs/angular-material/angular-material.min.js"></script>
+  <script src="libs/angular-translate/angular-translate.min.js"></script>
+  <script src="libs/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js"></script>
+  <script src="libs/angular-sanitize/angular-sanitize.min.js"></script>
+
+  <!-- ANGULAR CUSTOM -->
+  <script src="js/app.js"></script>
+  <script src="js/configs/routeConfig.js"></script>
+  <script src="js/configs/translationsConfig.js"></script>
+  <script src="js/configs/themeConfig.js"></script>
+  <script src="js/directives/navigationDirective.js"></script>
+  <script src="js/controllers/navigationController.js"></script>
 </body>
 </html>

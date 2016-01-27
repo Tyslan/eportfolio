@@ -1,0 +1,33 @@
+<md-toolbar class="md-primary">
+  <div layout="row" layout-padding layout-align="space-between center">
+    <md-menu-bar>
+      <md-button ng-href="/home">{{'HOME' | translate}}</md-button>
+      <md-button ng-href="/about">{{'ABOUT' | translate}}</md-button>
+      <md-button ng-href="/portfolio">{{'PORTFOLIO' | translate}}</md-button>
+      <md-button ng-href="/hobbies">{{'HOBBIES' | translate}}</md-button>
+      <md-button ng-href="/contact">{{'CONTACT' | translate}}</md-button>
+      <md-menu>
+        <md-button ng-href="" md-menu-origin ng-click="$mdOpenMenu()">{{'LANGUAGE' | translate}}</md-button>
+          <md-menu-content class="md-primary md-hue-1" width="2">
+            <md-menu-item>
+              <md-button ng-click="vmNavigation.changeLanguage('nl')">
+                <img ng-src= "../assets/img/languages/nl.png"> Nederlands
+              </md-button>
+            </md-menu-item>
+            <md-menu-divider></md-menu-divider>
+            <md-menu-item>
+              <md-button ng-click="vmNavigation.changeLanguage('en')">
+                <img ng-src= "../assets/img/languages/en.png"> English
+              </md-button>
+            </md-menu-item>
+            <md-menu-divider></md-menu-divider>
+            <md-menu-item>
+              <md-button ng-click="vmNavigation.changeLanguage('fr')">
+                <img ng-src= "../assets/img/languages/fr.png"> Français
+              </md-button>
+            </md-menu-item>
+        </md-menu-content>
+      </md-menu>
+    </md-menu-bar>
+  </div>
+</md-toolbar>
