@@ -1,4 +1,3 @@
-// public/js/appRoutes.js
 angular
   .module('PortfolioApp')
   .config(['$stateProvider', '$urlRouterProvider', '$locationProvider',
@@ -7,6 +6,10 @@ angular
         .state('home', {
           url: '/home',
           templateUrl: '/views/home.html'
+        })
+        .state('about', {
+          url: '/about',
+          templateUrl: '/views/about.html'
         });
 
       $urlRouterProvider.otherwise('home');
