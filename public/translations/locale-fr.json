@@ -20,5 +20,15 @@
   "PORTFOLIO_OUDENAARDE_TITLE": "Club de golf d'Oudenaarde",
   "PORTFOLIO_OUDENAARDE_CONTENT": "Exercice pour le cours d'Applications de web où on a travaillé avec CSS pour le premier fois.",
   "PORTFOLIO_HEAD_FIRST_TITLE": "Head First Lounge",
-  "PORTFOLIO_HEAD_FIRST_CONTENT": "Exercice pour le cours d'Applications de web où on a expérimenté avec des images de fond et frontières."
+  "PORTFOLIO_HEAD_FIRST_CONTENT": "Exercice pour le cours d'Applications de web où on a expérimenté avec des images de fond et frontières.",
+
+  "PORTFOLIO_DOWNLOAD_JAR": "Télécharger comme jar",
+  "PORTFOLIO_UNITCONVERTER_TITLE": "Unit Converter",
+  "PORTFOLIO_UNITCONVERTER_CONTENT": "Le premier programme que j'ai écrit en Java avec un GUI.",
+  "PORFOLIO_CHRONO_TITLE": "Chronomètre",
+  "PORTFOLIO_CHRONO_CONTENT": "Un chronomètre programmé en Java simple.",
+  "PORTFOLIO_WATCH_TITLE": "Montre",
+  "PORTFOLIO_WATCH_CONTENT": "Une application Java qui montre un montre.",
+  "PORTFOLIO_PUZZLE_TITLE": "Puzzle",
+  "PORTFOLIO_PUZZLE_CONTENT": "Un petit programme qui demande de résoudre un puzzle. L'utilisateur peut choisir la figure et le nombre de pièces soi-même."
 }

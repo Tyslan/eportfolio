@@ -20,5 +20,15 @@
   "PORTFOLIO_OUDENAARDE_TITLE": "Golf- en countryclub Oudenaarde",
   "PORTFOLIO_OUDENAARDE_CONTENT": "Oefening in de les webapplicaties waar er voor het eerst met css werd gewerkt.",
   "PORTFOLIO_HEAD_FIRST_TITLE": "Head First Lounge",
-  "PORTFOLIO_HEAD_FIRST_CONTENT": "Oefening in de les webapplicaties waar er er geëxperimenteerd werd met achtergrondafbeeldingen en borders."
+  "PORTFOLIO_HEAD_FIRST_CONTENT": "Oefening in de les webapplicaties waar er er geëxperimenteerd werd met achtergrondafbeeldingen en borders.",
+
+  "PORTFOLIO_DOWNLOAD_JAR": "Download als jar",
+  "PORTFOLIO_UNITCONVERTER_TITLE": "Unit Converter",
+  "PORTFOLIO_UNITCONVERTER_CONTENT": "Het allereerste programma dat ik in java schrijf met een GUI.",
+  "PORFOLIO_CHRONO_TITLE": "Chronometer",
+  "PORTFOLIO_CHRONO_CONTENT": "Een eenvoudige in java geprogrammeerde chronometer.",
+  "PORTFOLIO_WATCH_TITLE": "Analoog uurwerk",
+  "PORTFOLIO_WATCH_CONTENT": "Een java-applicatie die een analoog uurwerk weergeeft.",
+  "PORTFOLIO_PUZZLE_TITLE": "Schuifpuzzel",
+  "PORTFOLIO_PUZZLE_CONTENT": "Een programmatje die de gebruiker een schuifpuzzel laat oplossen. De gebruiker kan het aantal stukjes en de figuur zelf kiezen."
 }
