@@ -5,11 +5,20 @@
   "HOBBIES": "Hobby's",
   "CONTACT": "Contact",
   "LANGUAGE": "Taal",
+
   "WELCOME": "Welkom",
   "WELCOME_PAR_1": "Op deze website vind je allerlei informatie over wat ik tot nu toe allemaal gemaakt heb, over mezelf en over mijn studies.",
+
   "ABOUT_PAR_1": "Ik studeer Toegepaste Informatica aan HoGent in Gent. Ik koos voor deze studies omdat ik al altijd erg geïnteresseerd was in informatica.",
   "ABOUT_PAR_2": "Hogent sprak me erg aan omdat deze school een goede reputatie geniet op het gebied van informatica in Vlaanderen. Ook volgde ik aan deze school 3 jaar in de opleiding Bachelor of Science in de industriële wetenschappen: informatica.",
   "ABOUT_PAR_3": "Teksten schrijven vind ik maar niets, webdesign daarentegen vind ik persoonlijk zeer leuk. Maar voor deze website moet ik beide zaken combineren.",
   "ABOUT_PAR_4": "Als ik met een eenvoudig programma mijn dagelijks leven kan vermakkelijken, dan duurt het meestal niet erg lang voor ik hiervoor een programmatjes schrijf.",
-  "PORTFOLIO_GITHUB": "De meest recente projecten waaraan ik werk zijn allemaal te vinden op GitHub."
+
+  "PORTFOLIO_GITHUB": "De meest recente projecten waaraan ik werk zijn allemaal te vinden op GitHub.",
+  "PORTFOLIO_GO_TO_GITHUB": "Ga naar GitHub",
+  "PORTFOLIO_DOWNLOAD_ZIP": "Download als zip",
+  "PORTFOLIO_OUDENAARDE_TITLE": "Golf- en countryclub Oudenaarde",
+  "PORTFOLIO_OUDENAARDE_CONTENT": "Oefening in de les webapplicaties waar er voor het eerst met css werd gewerkt.",
+  "PORTFOLIO_HEAD_FIRST_TITLE": "Head First Lounge",
+  "PORTFOLIO_HEAD_FIRST_CONTENT": "Oefening in de les webapplicaties waar er er geëxperimenteerd werd met achtergrondafbeeldingen en borders."
 }
