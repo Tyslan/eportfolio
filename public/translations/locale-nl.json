@@ -25,10 +25,23 @@
   "PORTFOLIO_DOWNLOAD_JAR": "Download als jar",
   "PORTFOLIO_UNITCONVERTER_TITLE": "Unit Converter",
   "PORTFOLIO_UNITCONVERTER_CONTENT": "Het allereerste programma dat ik in java schrijf met een GUI.",
-  "PORFOLIO_CHRONO_TITLE": "Chronometer",
+  "PORTFOLIO_CHRONO_TITLE": "Chronometer",
   "PORTFOLIO_CHRONO_CONTENT": "Een eenvoudige in java geprogrammeerde chronometer.",
   "PORTFOLIO_WATCH_TITLE": "Analoog uurwerk",
   "PORTFOLIO_WATCH_CONTENT": "Een java-applicatie die een analoog uurwerk weergeeft.",
   "PORTFOLIO_PUZZLE_TITLE": "Schuifpuzzel",
-  "PORTFOLIO_PUZZLE_CONTENT": "Een programmatje die de gebruiker een schuifpuzzel laat oplossen. De gebruiker kan het aantal stukjes en de figuur zelf kiezen."
+  "PORTFOLIO_PUZZLE_CONTENT": "Een programmatje die de gebruiker een schuifpuzzel laat oplossen. De gebruiker kan het aantal stukjes en de figuur zelf kiezen.",
+
+  "PORTFOLIO_DOWNLOAD_SOURCE": "Download broncode",
+  "PORTFOLIO_DOWNLOAD_EXE": "Download als exe",
+  "PORTFOLIO_RPG_STORY_GENERATOR_TITLE": "RPG Story Generator",
+  "PORTFOLIO_RPG_STORY_GENERATOR_CONTENT": "Dit programma creërt een verhaal van een speler die op een vreemde wereld beland en hieruit wil ontsnappen.",
+  "PORTFOLIO_RPGV1.2_TITLE": "RPG v1.2",
+  "PORTFOLIO_RPGV1.2_CONTENT": "Een aanpassing van het de RPG story generator. Hier is het mogelijk om je character beslissingen te laten nemen.",
+  "PORTFOLIO_8QUEENS_TITLE": "8 Queens",
+  "PORTFOLIO_8QUEENS_CONTENT": "Het spelletje 8 Queens. Hierbij is het de bedoeling dat de speler op het schaakbord 8 koninginnen plaatst.",
+  "PORTFOLIO_POOLVERGELIJKING_TITLE": "Poolvergelijkingen",
+  "PORTFOLIO_POOLVERGELIJKING_CONTENT": "Een eenvoudig programma die verschillende poolvergelijkingen op het scherm tovert.",
+  "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
+  "PORTFOLIO_TETRAVEX_CONTENT": "Het populaire spelletje TetraVex."
 }

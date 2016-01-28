@@ -25,10 +25,23 @@
   "PORTFOLIO_DOWNLOAD_JAR": "Télécharger comme jar",
   "PORTFOLIO_UNITCONVERTER_TITLE": "Unit Converter",
   "PORTFOLIO_UNITCONVERTER_CONTENT": "Le premier programme que j'ai écrit en Java avec un GUI.",
-  "PORFOLIO_CHRONO_TITLE": "Chronomètre",
+  "PORTFOLIO_CHRONO_TITLE": "Chronomètre",
   "PORTFOLIO_CHRONO_CONTENT": "Un chronomètre programmé en Java simple.",
   "PORTFOLIO_WATCH_TITLE": "Montre",
   "PORTFOLIO_WATCH_CONTENT": "Une application Java qui montre un montre.",
   "PORTFOLIO_PUZZLE_TITLE": "Puzzle",
-  "PORTFOLIO_PUZZLE_CONTENT": "Un petit programme qui demande de résoudre un puzzle. L'utilisateur peut choisir la figure et le nombre de pièces soi-même."
+  "PORTFOLIO_PUZZLE_CONTENT": "Un petit programme qui demande de résoudre un puzzle. L'utilisateur peut choisir la figure et le nombre de pièces soi-même.",
+
+  "PORTFOLIO_DOWNLOAD_SOURCE": "Télécharger source",
+  "PORTFOLIO_DOWNLOAD_EXE": "Télécharger comme exe",
+  "PORTFOLIO_RPG_STORY_GENERATOR_TITLE": "RPG story generator",
+  "PORTFOLIO_RPG_STORY_GENERATOR_CONTENT": "Ce programme crée une histoire d'un joueur qui arrive à une monde étrangère et qui veut s'échapper d'ici.",
+  "PORTFOLIO_RPGV1.2_TITLE": "RPG v1.2",
+  "PORTFOLIO_RPGV1.2_CONTENT": "Une modification de générateur d'histoire de jeu de rôle. Ici c'est possible de prendre des décisions.",
+  "PORTFOLIO_8QUEENS_TITLE": "8 Dames",
+  "PORTFOLIO_8QUEENS_CONTENT": "Le jeu 8 Queens. Ici il faut que le joueur place 8 reines sur le champs d'échec.",
+  "PORTFOLIO_POOLVERGELIJKING_TITLE": "Équation polaire",
+  "PORTFOLIO_POOLVERGELIJKING_CONTENT": "Un simple programme qui fait apparaâtre comme par enchantement des équation de pôles.",
+  "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
+  "PORTFOLIO_TETRAVEX_CONTENT": "Le jeu populaire, TetraVex."
 }
