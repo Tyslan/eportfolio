@@ -43,5 +43,8 @@
   "PORTFOLIO_POOLVERGELIJKING_TITLE": "Équation polaire",
   "PORTFOLIO_POOLVERGELIJKING_CONTENT": "Un simple programme qui fait apparaâtre comme par enchantement des équation de pôles.",
   "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
-  "PORTFOLIO_TETRAVEX_CONTENT": "Le jeu populaire, TetraVex."
+  "PORTFOLIO_TETRAVEX_CONTENT": "Le jeu populaire, TetraVex.",
+
+  "PORTFOLIO_CHAMBERS_TITLE": "Chambres",
+  "PORTFOLIO_CHAMBERS_CONTENT": "Un jeu de rôle à bas de texte où il faut s'échapper d'un bâtiment."
 }

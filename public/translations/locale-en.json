@@ -44,5 +44,8 @@
   "PORTFOLIO_POOLVERGELIJKING_TITLE": "Polar equations",
   "PORTFOLIO_POOLVERGELIJKING_CONTENT": "A simple programme that makes polarequations appear on your screen.",
   "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
-  "PORTFOLIO_TETRAVEX_CONTENT": "The popular game TetraVex."
+  "PORTFOLIO_TETRAVEX_CONTENT": "The popular game TetraVex.",
+
+  "PORTFOLIO_CHAMBERS_TITLE": "Chambers",
+  "PORTFOLIO_CHAMBERS_CONTENT": "A text-based RPG in which it is the purpose to get out of the building."
 }

@@ -43,5 +43,8 @@
   "PORTFOLIO_POOLVERGELIJKING_TITLE": "Poolvergelijkingen",
   "PORTFOLIO_POOLVERGELIJKING_CONTENT": "Een eenvoudig programma die verschillende poolvergelijkingen op het scherm tovert.",
   "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
-  "PORTFOLIO_TETRAVEX_CONTENT": "Het populaire spelletje TetraVex."
+  "PORTFOLIO_TETRAVEX_CONTENT": "Het populaire spelletje TetraVex.",
+
+  "PORTFOLIO_CHAMBERS_TITLE": "Kamers",
+  "PORTFOLIO_CHAMBERS_CONTENT": "Een text-based rpg waarbij het de bedoeling is om uit een gebouw te raken."
 }
