@@ -1,12 +1,7 @@
-body {
-  background: url('../assets//img/wallpapers-green-bamboo.jpg') no-repeat center center fixed;
-  background-size:cover;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-}
-
-.contentBackground {
-  background-color: transparent;
+.coloredBackground {
+  background-color: #8bc34a;
+  /*background: url('../assets//img/wallpapers-green-bamboo.jpg');
+  background-size: cover;*/
 }
 
 .center {

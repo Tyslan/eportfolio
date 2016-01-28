@@ -32,6 +32,7 @@ app.use(methodOverride('X-HTTP-Method-Override'));
 app.use(express.static(__dirname + '/public'));
 
 // routes ==================================================
+app.use('/downloads', require('./routes/downloads'));
 app.use('/', require('./routes/frontend'));
 
 // start app ===============================================
