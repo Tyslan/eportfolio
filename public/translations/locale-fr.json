@@ -48,5 +48,14 @@
   "PORTFOLIO_TETRAVEX_CONTENT": "Le jeu populaire, TetraVex.",
 
   "PORTFOLIO_CHAMBERS_TITLE": "Chambres",
-  "PORTFOLIO_CHAMBERS_CONTENT": "Un jeu de rôle à bas de texte où il faut s'échapper d'un bâtiment."
+  "PORTFOLIO_CHAMBERS_CONTENT": "Un jeu de rôle à bas de texte où il faut s'échapper d'un bâtiment.",
+
+  "HOBBIES_GAMING_TITLE": "Jeux-Vidéo",
+  "HOBBIES_GAMING_CONTENT_PAR1": "Pendant mont temps libre j'aime bien jouer un jeu-vidéo. J'aime bien les jeux de stratégie en temps réel, les jeux de stratégie au tour par tour et les jeux de rôle, oui ou non en ligne.",
+  "HOBBIES_GAMINING_CONTENT_INTRO_LIST": "Voilà quelques de mes jeux préférés:",
+  "HOBBIES_GAMING_CONTENT_PAR2": "Je partage la plupart de mon temps entre ces jeux. Ce liste indique aussi que je préfère les jeux de stratégie en temps réel.",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_TITLE": "Préférence personnelle",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_CONTENT": "Dans ce jeu vous vous sentez dans le jeu. Vous serez en contact avec un de tes héros de la Terre du Milieu très vite. À cause de ça, la reconnaissabilité avec les livres et les films est très grand. Rien n'est plus chouette que flâner autour de la comté avec un caractère hobbitois, pêcher sur le pont Brandevin et finir avec un boum sous l'Arbre des Fêtes.",
+  "HOBBIES_READING_TITLE": "Lire",
+  "HOBBIES_READING_CONTENT": "Comme la plupart des gens, j'apprécie un bon livre. Je préfère surtout le genre fantaisie. Mes auteurs favoris sont J.R.R. Tolkien, Raymond E. Feist, Robert Jordan et C.S. Lewis."
 }
