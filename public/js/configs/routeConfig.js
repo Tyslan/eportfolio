@@ -21,7 +21,9 @@ angular
         })
         .state('contact',{
           url: '/contact',
-          templateUrl: 'views/contact.html'
+          templateUrl: 'views/contact.html',
+          controller: 'ContactController',
+          controllerAs: 'vmContact'
         });
 
       $urlRouterProvider.otherwise('home');

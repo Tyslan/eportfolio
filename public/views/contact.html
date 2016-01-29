@@ -1,23 +1,23 @@
 <div flex layout="row" layout-align="center center">
   <div flex-xs flex-gt-xs="75" flex-gt-md="50" class="md-whiteframe-z2">
     <md-content class="md-padding">
-      <form name="contactForm" data-ng-submit="sendMail()">
+      <form name="contactForm" data-ng-submit="vmContact.sendMail()">
         <div flex layout="column">
           <md-input-container>
             <label>Name:</label>
-            <input ng-model="contactName" required>
+            <input ng-model="vmContact.contactName" required>
           </md-input-container>
         </div>
         <div flex layout="column">
           <md-input-container>
             <label>Email:</label>
-            <input type="email" ng-model="contactEmail" required>
+            <input type="email" ng-model="vmContact.contactEmail" required>
           </md-input-container>
         </div>
         <div flex layout="column">
           <md-input-container>
             <label>Message:</label>
-            <textarea ng-model="contactMsg" columns="1" md-maxlength="150" required></textarea>
+            <textarea ng-model="vmContact.contactMsg" columns="1" md-maxlength="150" required></textarea>
           </md-input-container>
         </div>
         <div flex layout="column" layout-align="center center">
