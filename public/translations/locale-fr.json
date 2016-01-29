@@ -48,5 +48,23 @@
   "PORTFOLIO_TETRAVEX_CONTENT": "Le jeu populaire, TetraVex.",
 
   "PORTFOLIO_CHAMBERS_TITLE": "Chambres",
-  "PORTFOLIO_CHAMBERS_CONTENT": "Un jeu de rôle à bas de texte où il faut s'échapper d'un bâtiment."
+  "PORTFOLIO_CHAMBERS_CONTENT": "Un jeu de rôle à bas de texte où il faut s'échapper d'un bâtiment.",
+
+  "HOBBIES_GAMING_TITLE": "Jeux-Vidéo",
+  "HOBBIES_GAMING_CONTENT_PAR1": "Pendant mont temps libre j'aime bien jouer un jeu-vidéo. J'aime bien les jeux de stratégie en temps réel, les jeux de stratégie au tour par tour et les jeux de rôle, oui ou non en ligne.",
+  "HOBBIES_GAMINING_CONTENT_INTRO_LIST": "Voilà quelques de mes jeux préférés:",
+  "HOBBIES_GAMING_CONTENT_PAR2": "Je partage la plupart de mon temps entre ces jeux. Ce liste indique aussi que je préfère les jeux de stratégie en temps réel.",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_TITLE": "Préférence personnelle",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_CONTENT": "Dans ce jeu vous vous sentez dans le jeu. Vous serez en contact avec un de tes héros de la Terre du Milieu très vite. À cause de ça, la reconnaissabilité avec les livres et les films est très grand. Rien n'est plus chouette que flâner autour de la comté avec un caractère hobbitois, pêcher sur le pont Brandevin et finir avec un boum sous l'Arbre des Fêtes.",
+  "HOBBIES_READING_TITLE": "Lire",
+  "HOBBIES_READING_CONTENT": "Comme la plupart des gens, j'apprécie un bon livre. Je préfère surtout le genre fantaisie. Mes auteurs favoris sont J.R.R. Tolkien, Raymond E. Feist, Robert Jordan et C.S. Lewis.",
+  "HOBBIES_READING_MIDDLEEARTH_TITLE": "La Terre du Milieu",
+  "HOBBIES_READING_MIDDLEEARTH_CONTENT": "Non seul 'Le Seigneur des Anneaux' mais aussi tant d'autres histoires de Tolkien se déroulent dans cette monde fictive. Au cours de cettes histoires la Terre du Milieu évolue énormément et s'accumule par 'Le Hobbit' et beaucoup d'autres histoires vers un summum dans 'Le Seigneur des Anneaux'.",
+  "HOBBIES_READING_MIDKEMIA_TITLE": "Midkemia et Kelewan",
+  "HOBBIES_READING_MIDKEMIA_CONTENT": "À l'instar de Tolkien, Feist a créé Midkemia, qui était la scène pour tout ses livres à part de 3. Ces 3 se déroulent à Kelewan, une deuxième monde créé par Feist. Tout commence avec le premier 'Rift War' et continue pour une bataille ultime entre le bien et le mal, qui sont impersonnés par Pug et Thomas et 'La Lacune'",
+
+  "CONTACT_NAME": "Nom",
+  "CONTACT_EMAIL": "Adresse mail",
+  "CONTACT_MESSAGE": "Message",
+  "CONTACT_SEND": "Envoyez"
 }

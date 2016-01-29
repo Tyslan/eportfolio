@@ -33,6 +33,7 @@ app.use(express.static(__dirname + '/public'));
 
 // routes ==================================================
 app.use('/downloads', require('./routes/downloads'));
+app.use('/mail', require('./routes/mailing'));
 app.use('/', require('./routes/frontend'));
 
 // start app ===============================================

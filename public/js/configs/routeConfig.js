@@ -14,6 +14,16 @@ angular
         .state('portfolio', {
           url: '/portfolio',
           templateUrl: '/views/portfolio.html'
+        })
+        .state('hobbies', {
+          url: '/hobbies',
+          templateUrl: 'views/hobbies.html'
+        })
+        .state('contact',{
+          url: '/contact',
+          templateUrl: 'views/contact.html',
+          controller: 'ContactController',
+          controllerAs: 'vmContact'
         });
 
       $urlRouterProvider.otherwise('home');

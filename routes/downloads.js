@@ -3,7 +3,6 @@ var express = require('express');
 
 var router = express.Router();
 
-// frontend routes
 // route to handle all angular requests
 router.get('/zipOudenaarde', function(req, res, next) {
   res.download('./downloadables/GolfOudenaarde.zip', 'GolfOudenaarde.zip');
