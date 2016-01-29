@@ -10,7 +10,7 @@ var router = express.Router();
 var transporter = nodemailer.createTransport("SMTP", {
         service: 'Gmail',
         auth: {
-            user: gmailString,
+            user: gmail,
             pass: gmailPass
         }
       }
