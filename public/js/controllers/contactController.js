@@ -27,24 +27,22 @@ function ContactController($http, $mdToast, $animate){
     });
 
     // Simple POST request example (passing data) :
-    $http.post('/mail/contact-form', data).
-    success(function(data, status, headers, config) {
+    $http.post('/mail/contact-form', data)
+    .success(function(data, status, headers, config) {
       // this callback will be called asynchronously
       // when the response is available
-
       $mdToast.show(
         $mdToast.simple()
         .content('Thanks for your message ' + data.contactName + '.')
-        .position($scope.getToastPosition())
+        .position(vmContact.getToastPosition())
         .hideDelay(5000)
       );
-
-    }).
-    error(function(data, status, headers, config) {
+    })
+    .error(function(data, status, headers, config) {
       $mdToast.show(
         $mdToast.simple()
-        .content('Sorry ' + data.contactName + ', something went wrong!')
-        .position($scope.getToastPosition())
+        .content('Sorry ' + vmContact.contactName + ', something went wrong!')
+        .position(vmContact.getToastPosition())
         .hideDelay(5000)
       );
     });
