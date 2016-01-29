@@ -66,5 +66,7 @@
   "CONTACT_NAME": "Naam",
   "CONTACT_EMAIL": "E-mailadres",
   "CONTACT_MESSAGE": "Bericht",
-  "CONTACT_SEND": "Verstuur"
+  "CONTACT_SEND": "Verstuur",
+  "CONTACT_THANKS": "Bedankt voor uw bericht",
+  "CONTACT_SOMETHING_WRONG": "Sorry {{user}}, er is iets misgelopen!"
 }

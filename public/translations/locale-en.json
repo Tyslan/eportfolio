@@ -67,5 +67,7 @@
   "CONTACT_NAME": "Name",
   "CONTACT_EMAIL": "E-mailadress",
   "CONTACT_MESSAGE": "Message",
-  "CONTACT_SEND": "Send"
+  "CONTACT_SEND": "Send",
+  "CONTACT_THANKS": "Thanks for your message",
+  "CONTACT_SOMETHING_WRONG": "Sorry {{user}}, something went wrong!"
 }

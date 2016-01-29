@@ -2,7 +2,7 @@ angular
 .module('PortfolioApp')
 .controller('ContactController', ContactController);
 
-function ContactController($http, $mdToast, $animate){
+function ContactController($http, $mdToast, $animate, $translate){
   var vmContact = this;
 
   vmContact.toastPosition = {
@@ -33,7 +33,7 @@ function ContactController($http, $mdToast, $animate){
       // when the response is available
       $mdToast.show(
         $mdToast.simple()
-        .content('Thanks for your message ' + data.contactName + '.')
+        .content($translate.instant('CONTACT_THANKS') + ' ' + data.contactName + '.')
         .position(vmContact.getToastPosition())
         .hideDelay(5000)
       );
@@ -41,7 +41,7 @@ function ContactController($http, $mdToast, $animate){
     .error(function(data, status, headers, config) {
       $mdToast.show(
         $mdToast.simple()
-        .content('Sorry ' + vmContact.contactName + ', something went wrong!')
+        .content($translate.instant('CONTACT_SOMETHING_WRONG', {user: vmContact.contactName}))
         .position(vmContact.getToastPosition())
         .hideDelay(5000)
       );

@@ -13,12 +13,10 @@ var transporter = nodemailer.createTransport("SMTP", {
     user: gmail,
     pass: gmailPass
   }
-}
-);
+});
 
 router.post('/contact-form', function(req, res, next) {
   var data = req.body;
-  console.log(data);
 
   var message = 'Message from: '+data.contactEmail + '\n\nMessage:\n\n' + data.contactMsg;
 
