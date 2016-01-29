@@ -18,6 +18,10 @@ angular
         .state('hobbies', {
           url: '/hobbies',
           templateUrl: 'views/hobbies.html'
+        })
+        .state('contact',{
+          url: '/contact',
+          templateUrl: 'views/contact.html'
         });
 
       $urlRouterProvider.otherwise('home');
