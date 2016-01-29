@@ -5,10 +5,62 @@
   "HOBBIES": "Hobbies",
   "CONTACT": "Contact",
   "LANGUAGE": "Language",
+
   "WELCOME": "Welcome",
   "WELCOME_PAR_1": "On this website you can find all kinds of information about what I have made up to now, about myself and about my studies.",
+
+  "BELGIUM": "Belgium",
+  "ABOUT_LIVES_IN": "Lives in Diksmuide",
   "ABOUT_PAR_1": "I study Informatics at HoGent in Ghent. I've chosen these studies because I've always been interested in informatics.",
   "ABOUT_PAR_2": "I've chosen the school HoGent because it has a very good reputation in the field of informatics in Flanders. I've also studied 3 years in the Bachelor of Science in the industrial sciences: informatics option in the same school.",
   "ABOUT_PAR_3": "I don't really like writing texts, but webdesign on the other hand is something that I like very much. However, this website requires me to combine both.",
-  "ABOUT_PAR_4": "When a simple programme can make life easier for me, it won't take long before I'm writing a programme for that particular purpose."
+  "ABOUT_PAR_4": "When a simple programme can make life easier for me, it won't take long before I'm writing a programme for that particular purpose.",
+
+  "PORTFOLIO_GITHUB": "My most recent projects can be found at GitHub.",
+  "PORTFOLIO_GO_TO_GITHUB": "Go to GitHub",
+
+  "PORTFOLIO_DOWNLOAD_ZIP": "Download as zip",
+  "PORTFOLIO_OUDENAARDE_TITLE": "Golf- and countryclub Oudenaarde",
+  "PORTFOLIO_OUDENAARDE_CONTENT": "Exercise in the webapplications course where CSS was used for the first time.",
+  "PORTFOLIO_HEAD_FIRST_TITLE": "Head First Lounge",
+  "PORTFOLIO_HEAD_FIRST_CONTENT": "Exercise in the webapplications course where we experimentes with background images and borders.",
+
+  "PORTFOLIO_DOWNLOAD_JAR": "Download as jar",
+  "PORTFOLIO_UNITCONVERTER_TITLE": "Unit Converter",
+  "PORTFOLIO_UNITCONVERTER_CONTENT": "The first programme I wrote in Java with a GUI.",
+  "PORTFOLIO_CHRONO_TITLE": "Chronometer",
+  "PORTFOLIO_CHRONO_CONTENT": "A simple, Java programmed stopwatch",
+  "PORTFOLIO_WATCH_TITLE": "Analogue watch",
+  "PORTFOLIO_WATCH_CONTENT": "A Java-application that displays an analogue watch.",
+  "PORTFOLIO_PUZZLE_TITLE": "Sliding puzzle",
+  "PORTFOLIO_PUZZLE_CONTENT": "A programme that lets the user solve a sliding puzzle. The user can choose an image and the number of pieces.",
+
+  "PORTFOLIO_DOWNLOAD_SOURCE": "Download source code",
+  "PORTFOLIO_DOWNLOAD_EXE": "Download as exe",
+  "PORTFOLIO_RPG_STORY_GENERATOR_TITLE": "RPG Story Generator",
+  "PORTFOLIO_RPG_STORY_GENERATOR_CONTENT": "This programme creates a story about a player that ends up in a foreign world and wants to escape it.",
+  "PORTFOLIO_RPGV1.2_TITLE": "RPG v1.2",
+  "PORTFOLIO_RPGV1.2_CONTENT": "A modification of RPG Story generator. Here it is possible to make decisions with your character.",
+  "PORTFOLIO_8QUEENS_TITLE": "8 Queens",
+  "PORTFOLIO_8QUEENS_CONTENT": "The game 8 Queens. In this game the player must place 8 queens on a chess field.",
+  "PORTFOLIO_POOLVERGELIJKING_TITLE": "Polar equations",
+  "PORTFOLIO_POOLVERGELIJKING_CONTENT": "A simple programme that makes polarequations appear on your screen.",
+  "PORTFOLIO_TETRAVEX_TITLE": "TetraVex",
+  "PORTFOLIO_TETRAVEX_CONTENT": "The popular game TetraVex.",
+
+  "PORTFOLIO_CHAMBERS_TITLE": "Chambers",
+  "PORTFOLIO_CHAMBERS_CONTENT": "A text-based RPG in which it is the purpose to get out of the building.",
+
+  "HOBBIES_GAMING_TITLE": "Gaming",
+  "HOBBIES_GAMING_CONTENT_PAR1": "In my spare time I often play videogames. I especially like the genres Real Time Strategy (RTS), Turn Based Strategy (TBS) and Roleplaying Games (RPG).",
+  "HOBBIES_GAMINING_CONTENT_INTRO_LIST": "Here are some of my favourites:",
+  "HOBBIES_GAMING_CONTENT_PAR2": "Between these games I divide most of my gaming time. This list also proves that I prefer RTS-games.",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_TITLE": "Personal favourit:",
+  "HOBBIES_GAMING_PERSONAL_FAVORIT_CONTENT": "This game really draws you into the fictional world of Middle-Earth. It doesn't take long before you get in touch with one one your favourite Middle-Earth heroes. This makes the recognisability with the books and the movies very big. There's nothing greater than to stroll around the Shire with a hobbit character, fishing from the Brandywine Bridge and ending it all with a party underneath the Party Tree.",
+  "HOBBIES_READING_TITLE": "Reading",
+  "HOBBIES_READING_CONTENT": "Like most people I can appreciate a good book. I like reading fantasy books. My favourite authors are J.R.R Tolkien, Raymond E. Feist, Robert Jordan and C.S. Lewis.",
+  "HOBBIES_READING_MIDDLEEARTH_TITLE": "Middle-Earth",
+  "HOBBIES_READING_MIDDLEEARTH_CONTENT": "Not only 'The Lord of the Rings', but also many other stories of Tolkien take place in this fictional world. In the course of these stories Middle-Earth changes enormously and builds up slowly through 'The Hobbit' and many other stories to a climax in 'The Lord of The Rings'.",
+  "HOBBIES_READING_MIDKEMIA_TITLE": "Midkemia and Kelewan",
+  "HOBBIES_READING_MIDKEMIA_CONTENT": "In Tolkien's footsteps Feist has created Midkemia. The setting for all but 3 of his books. These 3 other books take place in Kelewan, another world that Feist has created. Everything starts with the first 'Rift War' and continues on to an ultimate fight between good and evil, which are in this series impersonated by Pug and Thomas and 'The Void'."
 }
