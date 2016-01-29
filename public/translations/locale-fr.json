@@ -61,5 +61,10 @@
   "HOBBIES_READING_MIDDLEEARTH_TITLE": "La Terre du Milieu",
   "HOBBIES_READING_MIDDLEEARTH_CONTENT": "Non seul 'Le Seigneur des Anneaux' mais aussi tant d'autres histoires de Tolkien se déroulent dans cette monde fictive. Au cours de cettes histoires la Terre du Milieu évolue énormément et s'accumule par 'Le Hobbit' et beaucoup d'autres histoires vers un summum dans 'Le Seigneur des Anneaux'.",
   "HOBBIES_READING_MIDKEMIA_TITLE": "Midkemia et Kelewan",
-  "HOBBIES_READING_MIDKEMIA_CONTENT": "À l'instar de Tolkien, Feist a créé Midkemia, qui était la scène pour tout ses livres À part de 3. Ces 3 se déroulent À Kelewan, une deuxième monde créé par Feist. Tout commence avec le premier 'Rift War' et continue pour une bataille ultime entre le bien et le mal, qui sont impersonnés par Pug et Thomas et 'La Lacune'"
+  "HOBBIES_READING_MIDKEMIA_CONTENT": "À l'instar de Tolkien, Feist a créé Midkemia, qui était la scène pour tout ses livres à part de 3. Ces 3 se déroulent à Kelewan, une deuxième monde créé par Feist. Tout commence avec le premier 'Rift War' et continue pour une bataille ultime entre le bien et le mal, qui sont impersonnés par Pug et Thomas et 'La Lacune'",
+
+  "CONTACT_NAME": "Nom",
+  "CONTACT_EMAIL": "Adresse mail",
+  "CONTACT_MESSAGE": "Message",
+  "CONTACT_SEND": "Envoyez"
 }

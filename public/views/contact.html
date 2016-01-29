@@ -25,26 +25,26 @@
       <form name="vmContact.contactForm" data-ng-submit="vmContact.sendMail()">
         <div flex layout="column">
           <md-input-container>
-            <label>Name:</label>
+            <label>{{'CONTACT_NAME' | translate}}:</label>
             <input ng-model="vmContact.contactName" required>
           </md-input-container>
         </div>
         <div flex layout="column">
           <md-input-container>
-            <label>Email:</label>
+            <label>{{'CONTACT_EMAIL' | translate}}:</label>
             <input type="email" ng-model="vmContact.contactEmail" required>
           </md-input-container>
         </div>
         <div flex layout="column">
           <md-input-container>
-            <label>Message:</label>
+            <label>{{'CONTACT_MESSAGE' | translate}}:</label>
             <textarea ng-model="vmContact.contactMsg" columns="1" md-maxlength="1500" required></textarea>
           </md-input-container>
         </div>
         <div flex layout="column" layout-align="center center">
           <md-button type="submit" class="md-primary"
           ng-class="{'md-raised md-hue-1': (contactForm.$dirty && contactForm.$valid) }"
-          aria-label="Send mail">Send</md-button>
+          aria-label="Send mail">{{'CONTACT_SEND' | translate}}</md-button>
         </div>
       </form>
     </md-content>
