@@ -10,6 +10,5 @@ function translationConfig($translateProvider) {
 
   $translateProvider
     .useSanitizeValueStrategy('sanitizeParameters')
-    .preferredLanguage('nl')
-    .fallbackLanguage('en');
+    .preferredLanguage('nl');
 }
