@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "e-portfolio of Lorenz Verschingel",
   "main": "server.js",
+  "engines": {
+    "node": "4.4.3",
+    "npm": "2.15.1"
+  },
   "dependencies": {
     "body-parser": "~1.4.2",
     "bower": "^1.7.6",
